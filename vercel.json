@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/fetch.js":  { "maxDuration": 15 },
-    "api/render.js": { "maxDuration": 60, "includeFiles": "node_modules/@sparticuz/chromium/**" },
-    "api/crawl.js":  { "maxDuration": 300, "includeFiles": "node_modules/@sparticuz/chromium/**" }
-  }
-}
